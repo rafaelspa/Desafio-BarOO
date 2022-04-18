@@ -1,4 +1,11 @@
 package Bar;
+/* Modulo 4 - Chapter 6 - BarOO Challenge - Escola Devsuperior
+ * Prof. Nelio Alves
+ * rsdepaula67@gmail.com
+ * 
+ * Program to calculate a simple bar bill using basic OO concepts.
+ */
+
 
 import java.util.Scanner;
 
